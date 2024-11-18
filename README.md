@@ -35,12 +35,12 @@ Recycle Water: Research water recycling technologies.
 Ration: Stabilize food supply at the cost of morale.
 Winning & Losing: The game ends when the population reaches zero or morale collapses. The goal is to survive as long as possible.
 
-Project Structure Zenith/ │ ├── main.py # Main game loop ├── game_logic.py # Game mechanics ├── assets/ # Game assets (optional) └── README.md # Documentation
+Project Structure Zenith/ │ ├── main.py ├── game_logic.py ├── assets/└── README.md
 
 Contributing
 
 Fork the repository, create a feature branch, and submit a pull request.
 Credits
 
-Developer: [Your Name]
-Libraries: Pygame """
+Developer: ColterChristofferson
+Libraries: Pygame
